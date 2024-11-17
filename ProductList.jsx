@@ -10,3 +10,5 @@ function ProductList({ products }) {
       ))}
     </div>)};
 export default ProductList;
+//Task 5 - Implement Keys in the ProductList Component
+// Done previously

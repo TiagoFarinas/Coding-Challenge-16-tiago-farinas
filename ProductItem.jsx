@@ -8,3 +8,5 @@ function ProductItem({ product }) {
       <p>{product.description}</p>
     </div>)};
 export default ProductItem;
+//Task 5 - Implement Keys in the ProductList Component
+// Done previously

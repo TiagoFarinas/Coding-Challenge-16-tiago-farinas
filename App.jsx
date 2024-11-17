@@ -15,3 +15,5 @@ function App() {
       <AddProductForm onAddProduct={addProduct} />
     </div>)};
 export default App;
+//Task 5 - Implement Keys in the ProductList Component
+// Done previously
